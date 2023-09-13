@@ -3,7 +3,7 @@
 
 
   
-### Language
+### Language and others
 <p align="left">
 	<img title="Python" alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
  	<img title="C" alt="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
