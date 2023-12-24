@@ -15,6 +15,8 @@
         <p align="center">
           <img title="Python" alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
           <img title="C" alt="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
+          <img title="HTML" alt="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
+          <img title="CSS" alt="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
         </p>
       </td>
       <td>
