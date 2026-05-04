@@ -2,39 +2,17 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d85c6&size=35&center=true&vCenter=true&width=1000&lines=Hi,+my+name+is+Matheus+Diniz+Fernandes;I'm+18+years+old;I+from+Brazil,+RN;Information+Systems+Student;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=matheusdnf&show_icons=true&count_private=true&hide_border=true&title_color=3d85c6&icon_color=3d85c6&text_color=c9d1d9&bg_color=0d1117&rank_icon=github" alt="Matheus Maia Alvarez github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusdnf&layout=compact&hide_border=true&title_color=3d85c6&text_color=c9d1d9&bg_color=0d1117" />
 </div>
 
+<div align="center"> 
+  
+___
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusdiniz870@gmail.com?!&&p=4740667362060c04JmltdHM9MTcwMTY0ODAwMCZpZ3VpZD0zM2Y4NTM4Ni0yMDEwLTZhOTEtMzQ3Yi00MDU0MjFjNjZiZTcmaW5zaWQ9NTE5Ng&ptn=3&ver=2&hsh=3&fclid=33f85386-2010-6a91-347b-405421c66be7&psq=gmail&u=a1aHR0cDovL21haWwuZ29vZ2xlLmNvbS9tYWlsP2hsPXB0LUJS&ntb=1)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/matheusdnz_)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-diniz-03b4b2337/)
+</a>
 
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <h3 align="center">Learning</h3>
-        <p align="center">
-          <img title="Python" alt="Python" src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-          <img title="C" alt="C" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-          <img title="HTML" alt="HTML" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-          <img title="CSS" alt="CSS" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-        </p>
-      </td>
-      <td>
-        <h3 align="center">Contacts</h3>
-        <p align="center">
-        <a href = "mailto:matheusdiniz870@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_white"></a>
-          </a>
-        </p>
-      </td>
-      <td>
-        <h3 align="center">Tools</h3>
-        <p align="center">
-  	<img title="vscode" alt="vscode" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" width="40" height="40" style="vertical-align:down; margin:4px"/>
-        </p>
-      </td>
-    </tr>
-  </table>
-</div>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Matheusdnf/Matheusdnf/output/github-contribution-grid-snake-dark.svg">
